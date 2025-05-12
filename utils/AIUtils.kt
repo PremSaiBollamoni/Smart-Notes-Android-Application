@@ -16,7 +16,7 @@ import java.io.FileOutputStream
 class AIUtils(private val context: Context) {
     private val generativeModel = GenerativeModel(
         modelName = "gemini-1.5-flash",
-        apiKey = "AIzaSyDtVGQ3c3tO9QZhgiNNnu05AjynynfVpkA",
+        apiKey = "",
         generationConfig = generationConfig {
             temperature = 0.7f
             topK = 40
