@@ -34,7 +34,6 @@ Smart Notes is a productivity-focused Android application that uses AI to genera
 <p align="center">
   <img src="assets/screenshot1.png" width="200" alt="Home Screen"/>
   <img src="assets/screenshot2.png" width="200" alt="Note View"/>
-  <img src="assets/screenshot3.png" width="200" alt="Edit Screen"/>
 </p>
 
 ---
